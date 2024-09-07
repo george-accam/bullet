@@ -11,11 +11,7 @@
 
   ### 🛠️ Technologies & Tools:
   -  JavaScript 🕸️ | MongoDB 📜
-  - React js++++ ⚛️ | Node.js 🚀 | HTML/CSS 🌐
-  - Machine Learning 🤖 | Data Visualization 📊
-  - Solidity smart contract development
-  - BI Tools: Tableau 📈 | Power BI 🔌
-
+  - React js ⚛️ | Node.js 🚀 | HTML/CSS 🌐
 
   ### 💬 Let's Collaborate:
   - Open to collaborations and new opportunities.
